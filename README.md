@@ -12,4 +12,3 @@ We have six digs: long leg, curl, white, small white, steak, dressed long leg
 
 ## Result
 ![image](https://github.com/skyMei-J/Image/blob/main/campus%20dog/截圖%202021-09-05%20上午3.42.03.png)
-
