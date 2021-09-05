@@ -1,4 +1,4 @@
-# Campus-Dog
+# Campus-Dog Classification
 Classifying campus dog using different method: VGG19, Random Forest, Decision Tree, and Gaussian
 
 ## Data visualization
