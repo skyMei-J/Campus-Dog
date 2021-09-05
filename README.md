@@ -1,5 +1,5 @@
 # Campus-Dog
-Classifying campus dog
+Classifying campus dog using different method: VGG19, Random Forest, Decision Tree, and Gaussian
 
 ## Data visualization
 ![image](https://github.com/skyMei-J/Image/blob/main/campus%20dog/截圖%202021-09-05%20上午3.40.42.png)
